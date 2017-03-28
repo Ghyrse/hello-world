@@ -1,2 +1,2 @@
 # hello-world
-premier fichier test
+premier fichier test pour apprendre react.js native et redux
